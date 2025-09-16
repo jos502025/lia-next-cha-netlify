@@ -1,0 +1,3 @@
+git add nombre-del-archivo.ext
+git commit -m "Mis cambios en nueva rama"
+git push origin mi-rama-cambios
