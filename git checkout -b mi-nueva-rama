@@ -1,0 +1,3 @@
+git add archivo.txt
+git commit -m "Agrego archivo.txt en mi-nueva-rama"
+git push origin mi-nueva-rama
